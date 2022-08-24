@@ -53,10 +53,13 @@ success:
         ] 
 
 failure:
-        false
-        error message in $weatherman->erroropenweathermap.org API KEY
+
+         false
+
+         error message in $weatherman->erroropenweathermap.org 
 
 License:  AGPL v3 https://www.gnu.org/licenses/agpl-3.0.html
+
 Author and copyright: sikes@lo-res.org 
 
 
