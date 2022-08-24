@@ -44,9 +44,9 @@ success:
         [
                 'temperature' => 
                 [
-                        'kelvin': <temperature in degrees kelvin>,
-                        'celsius': <temperature in degrees celsius>,
-                        'fahrenheit': <temperature in degrees fahrenheit>,
+                        'kelvin' => <temperature in degrees kelvin>,
+                        'celsius' => <temperature in degrees celsius>,
+                        'fahrenheit' => <temperature in degrees fahrenheit>,
                 ],
                 'rawdata' => <full data object from openweathermap.org>
 
